@@ -1,10 +1,10 @@
 # YouTube Data Pipeline using Apache Airflow
 
 This YouTube Data ETL with Airflow project automates the extraction, transformation, and loading of data from YouTube channels. It uses the YouTube Data API, transforms the data, and can store it in destinations like Amazon S3.
-Apache Airflow schedules and orchestrates the ETL process, ensuring data is up-to-date and reliable for analysis.
+Apache Airflow schedules and orchestrates the ETL process, ensuring the data is up-to-date and reliable for analysis.
 
 ## Overview
-<div class="image-container"><img src="/images/overview.png" alt="Project Image"> </div>
+<div class="image-container"><img src="/images/overview.png" alt="Project Image"></div>
 
 ## Project Components
 This project consists of several vital components, each with a critical role in efficiently processing and organizing data from YouTube channels. The main components are as follows:
@@ -22,7 +22,7 @@ This project consists of several vital components, each with a critical role in 
 ## Objectives:
 The key objectives of this project are:
 
-1. Automating data retrieval from YouTube channels, with a focus on the "DarshilParmar" channel.
+1. Automating data retrieval from YouTube channels.
 2. Ensuring that the collected data is cleaned, organized, and ready for analysis through the use of data cleaning and structuring functions.
 3. Allowing flexibility in selecting the data storage destination. In my project, data is stored in an Amazon S3 bucket, and it's adaptable to other cloud storage solutions.
 4. Implementing a dependable and efficient ETL process that can be scheduled and monitored, achieved through the integration of scheduling with Apache Airflow.
@@ -32,6 +32,6 @@ The key objectives of this project are:
 The YouTube Data ETL with Airflow project automates YouTube channel data extraction and transformation. It's flexible, adaptable, and integrates with Apache Airflow for scheduling and monitoring ETL jobs. This project simplifies data collection and preparation for analysis, benefiting data enthusiasts, analysts, and engineers.
 
 ## Reference
-I'd like to express my gratitude to <a href = [https://www.otodom.pl/](https://www.youtube.com/watch?v=q8q3OFFfY6c&t=2027s)  style="text-decoration: none;"> Darshil Parmar</a> for inspiring this project. <br>
+I'd like to express my gratitude to <a href = [https://www.youtube.com/watch?v=q8q3OFFfY6c&t=2027s]  style="text-decoration: none;"> Darshil Parmar</a> for inspiring this project. <br>
 Please check the requirement.txt for the necessary prerequisites.<br>
 For a more comprehensive understanding of the Apache Airflow setup, refer to the Document.pdf.<br>
