@@ -32,6 +32,6 @@ The key objectives of this project are:
 The YouTube Data ETL with Airflow project automates YouTube channel data extraction and transformation. It's flexible, adaptable, and integrates with Apache Airflow for scheduling and monitoring ETL jobs. This project simplifies data collection and preparation for analysis, benefiting data enthusiasts, analysts, and engineers.
 
 ## Reference
-I'd like to express my gratitude to <a href = [https://www.youtube.com/watch?v=q8q3OFFfY6c&t=2027s]  style="text-decoration: none;"> Darshil Parmar</a> for inspiring this project. <br>
+I'd like to express my gratitude to <a href = "https://www.youtube.com/watch?v=q8q3OFFfY6c&t=2027s"  style="text-decoration: none;"> Darshil Parmar</a> for inspiring this project. <br>
 Please check the requirement.txt for the necessary prerequisites.<br>
 For a more comprehensive understanding of the Apache Airflow setup, refer to the Document.pdf.<br>
